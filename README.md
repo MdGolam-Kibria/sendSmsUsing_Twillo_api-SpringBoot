@@ -5,7 +5,8 @@
 - 2) delete aplication.properties file .
 - 3) make a file inside resource called application.yml.
 - 4) go to your browser and search twilio and and make a account and follow next step for free trial finally you got a <b>trial number </b>,<b>account sid </b> and <b>" auth token "</b> now...
-- 5) now write some line like this...
+- 5) above step must verified a phone number cause twilo free trial only send sms one verified number remember it..
+- 6) now write some line like this...
 
     ```java
         twilio:
@@ -13,7 +14,7 @@
   auth_token: #your auth token
   trial_number: # your trial number
     ```
--6)follow my whole code after all for testing purposes go to your posman and send request like this....
+-7)follow my whole code after all for testing purposes go to your posman and send request like this....
 
 ```json
 {	
