@@ -14,7 +14,7 @@
   auth_token: #your auth token
   trial_number: # your trial number
     ```
--7)follow my whole code after all for testing purposes go to your posman and send request like this....
+- 7)follow my whole code after all for testing purposes go to your posman and send request like this....
 
 ```json
 {	
