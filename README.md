@@ -4,7 +4,7 @@
 - 1) at first make a spring boot project with web dependency.
 - 2) delete aplication.properties file .
 - 3) make a file inside resource called application.yml.
-- 4) go to your browser and search twilio and and make a account and follow next step for free trial finally you got a <b>trial number </b>,<b>account sid </b> and " auth token " now
+- 4) go to your browser and search twilio and and make a account and follow next step for free trial finally you got a <b>trial number </b>,<b>account sid </b> and <b>" auth token "</b> now...
 - 5) now write some line like this...
 
     ```java
