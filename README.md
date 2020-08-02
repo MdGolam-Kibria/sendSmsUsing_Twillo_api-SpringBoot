@@ -1,5 +1,5 @@
 # sendSmsUsing_Twillo_api-SpringBoot
-###send sms usng spring boot Twilio API
+###send sms using spring boot Twilio API
 
 - 1) at first make a spring boot project with web dependency.
 - 2) delete aplication.properties file .
